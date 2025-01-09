@@ -13,3 +13,5 @@ These characters are used:
 * WORD JOINER (U+2060)
 * ZERO WIDTH SPACE (U+200B)
 * ZERO WIDTH NON-JOINER (U+200C)
+
+* My forked version on (https://gaslighting.vercel.app)
